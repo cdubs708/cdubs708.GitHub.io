@@ -15,28 +15,11 @@ Using excel to analyze and **deliver valuable business insights** to the stakeho
 For this project, I created a **[dashboard using Tableau](https://public.tableau.com/app/profile/chris.w2754/viz/Mass_EducatationAnalyzation/Dashboard1)** to analyze the education within the state of Massachusetts. Many specific questions of the Superintendent were discovered and answered.
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
+### My Projects - Quick Links
 
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
-
----
-
-### My Projects Quick Links
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Excel Marketing Analysis](https://www.linkedin.com/pulse/doordashs-marketing-results-breakdown-christopher-wetzel/)
+- [Massachusetts Education Report](https://www.linkedin.com/pulse/massachusetts-education-deep-dive-christopher-wetzel/?trackingId=PlVmTKQ%2FSLKhKcbelXN%2Big%3D%3D)
 
 ---
 
