@@ -30,7 +30,7 @@ What are the top math schools in the state?
 
 ---
 
-### Category Name 2
+### My Projects Quick Links
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
