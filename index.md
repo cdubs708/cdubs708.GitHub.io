@@ -6,7 +6,7 @@
 
 #### [Excel Marketing Analysis](/bank)
 <img src="images/Deliver your food quickly and safely.png"/>
-Tolulope is the best
+Using excel to analyze and deliver valuable business insights to the stakeholders of iFood. (the Brazilian DoorDash)
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
