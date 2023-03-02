@@ -18,8 +18,8 @@ For this project, I created a **[dashboard using Tableau](https://public.tableau
 
 ### My Projects - Quick Links
 
-- [Excel Marketing Analysis](https://www.linkedin.com/pulse/doordashs-marketing-results-breakdown-christopher-wetzel/)
-- [Massachusetts Education Report](https://www.linkedin.com/pulse/massachusetts-education-deep-dive-christopher-wetzel/?trackingId=PlVmTKQ%2FSLKhKcbelXN%2Big%3D%3D)
+- [DoorDash Marketing Analysis - Excel](https://www.linkedin.com/pulse/doordashs-marketing-results-breakdown-christopher-wetzel/)
+- [Massachusetts Education Report - Tableau](https://www.linkedin.com/pulse/massachusetts-education-deep-dive-christopher-wetzel/?trackingId=PlVmTKQ%2FSLKhKcbelXN%2Big%3D%3D)
 
 ---
 
