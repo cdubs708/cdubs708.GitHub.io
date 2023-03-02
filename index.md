@@ -1,5 +1,5 @@
 # Welcome to My Portfolio
-<img src="images/headline 1.2.png/">
+<img src="images/headline 1.2.png"/>
 
 ---
 
