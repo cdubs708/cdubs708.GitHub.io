@@ -10,8 +10,8 @@
 Using excel to analyze and deliver valuable business insights to the stakeholders of iFood. (the Brazilian DoorDash)
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+#### [Massachusetts Education Report](https://www.linkedin.com/pulse/massachusetts-education-deep-dive-christopher-wetzel/?trackingId=PlVmTKQ%2FSLKhKcbelXN%2Big%3D%3D)
+<img src="images/dashboard.PNG"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
