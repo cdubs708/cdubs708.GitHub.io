@@ -12,7 +12,7 @@ Using excel to analyze and deliver valuable business insights to the stakeholder
 ---
 #### [Massachusetts Education Report](https://www.linkedin.com/pulse/massachusetts-education-deep-dive-christopher-wetzel/?trackingId=PlVmTKQ%2FSLKhKcbelXN%2Big%3D%3D)
 <img src="images/dashboard.PNG"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this project, I created a dashboard using Tableau to analyze the state of Massachusetts' education success. Many specific questions of the Superintendent were discovered and answered.
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
