@@ -7,7 +7,7 @@
 
 #### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordashs-marketing-results-breakdown-christopher-wetzel/)
 <img src="images/Deliver your food quickly and safely.png"/>
-Using excel to analyze and **deliver valuable business insights** to the stakeholders of iFood. (the Brazilian DoorDash)
+Here, I used **excel** to analyze and **deliver valuable business insights** to the stakeholders of iFood. (the Brazilian DoorDash)
 
 ---
 #### [Massachusetts Education Report](https://www.linkedin.com/pulse/massachusetts-education-deep-dive-christopher-wetzel/?trackingId=PlVmTKQ%2FSLKhKcbelXN%2Big%3D%3D)
