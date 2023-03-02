@@ -5,7 +5,7 @@
 
 ### Learn About My Projects
 
-#### [Excel Marketing Analysis](https://www.linkedin.com/pulse/doordashs-marketing-results-breakdown-christopher-wetzel/)
+#### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordashs-marketing-results-breakdown-christopher-wetzel/)
 <img src="images/Deliver your food quickly and safely.png"/>
 Using excel to analyze and **deliver valuable business insights** to the stakeholders of iFood. (the Brazilian DoorDash)
 
