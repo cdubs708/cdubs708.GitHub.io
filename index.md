@@ -4,8 +4,8 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [Excel Marketing Analysis](/bank)
+<img src="images/Deliver your food quickly and safely.png"/>
 Tolulope is the best
 
 ---
