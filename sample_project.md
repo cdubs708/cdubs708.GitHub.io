@@ -4,8 +4,6 @@
 
 **Project description:** In this project, I pretended I was hired by the World Bank as a Data Analyst. I was tasked with using PostgreSQL to filter through the International Development Association's (IDA) historical data - their statement of grants and credits.
 
-Be sure to connect with me on LinkedIn or check out my other projects using the two links at the bottom left. 
-
 The data used for this analysis can be found **[here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx)**! For this project, the data was last updated February 14, 2023 and was created April 20, 2011. The data is United States Dollars.
 
 
@@ -81,4 +79,4 @@ India's 5 largest projects all original borrowed **$1 Billion dollars each** - b
 This was for educational and practice purposes only. I do not own any of the data used here.
 Thank you for reading my World Bank Analysis project using PostgreSQL!
 I would love any feedback.
-Let's connect on LinkedIn - and take a look at my other projects - both are linked to the left side of this page!
+Let's connect on LinkedIn at the link to the bottom left of this page - and take a look at my other projects back in my portfolio in the link using my name at the top left of this page!
