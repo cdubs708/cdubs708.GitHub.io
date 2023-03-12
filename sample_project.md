@@ -1,19 +1,29 @@
-## This can be a template for an internal prject
+## Analysis of World Bank using PostgreSQL
 
-**Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
+**Project description:** In this project, I pretended I was hired by the World Bank as a Data Analyst. I was tasked with using PostgreSQL to filter through the International Development Association's (IDA) historical data - their statement of grants and credits.
 
-Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
+Be sure to connect with me on LinkedIn or check out my other projects using the two links at the bottom left. 
 
-### 1. You can have sections and text.
+The data used for this analysis can be found **[here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx)**! For this project, the data was last updated February 14, 2023 and was created April 20, 2011. The data is United States Dollars.
 
-Just like this. And you can even add internal coding blocks
 
-```python
-print('this is the python code I used to solve this problem')
-```
+### What was analyzed?
 
-### 2. You can add any images you'd like. 
+When analyzing the data, I wanted to start big picture and then focus in on the country that borrows the most from the World Bank. The questions I was looking to answer are:
+  1. How many different countries have borrowed from the World Bank?
+  2. How many total transactions has the World Bank made?
+  3. What is the total due to the IDA?
+  4. What are the top 5 countries for total transactions?
+  5. What are the top 5 countries that owe the most to the IDA?
+  6. What are the most expensive projects within the country who owes the most to the IDA, how much have they repaid towards those projects?
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### By the Numbers
+
+  1. There are **137 different countries** that have borrowed from the World Bank.
+  2. There are **2.28 Million** total transactions made between 137 countries and the World Bank over the course of 12 years.
+  3. The total or sum owed to the IDA is over **$41 Trillion dollars**! The exact amount is $41,426,949,353,203.46.
+  4. The top 5 countries for total transactions are India, Bangladesh, Pakistan, Tanzania, and Ghana.
+  5. The top 5 countries that owe to IDA the most are India, Bangladesh, Pakistan, Vietnam, and Nigeria.
+  6. The top 5 most expensive projects within India is the National Rural Livelihoods Project 5 separate times.
 
 
