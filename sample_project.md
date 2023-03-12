@@ -48,6 +48,5 @@ Now, I wanted to dig into the large number owed to the IDA. I wanted to specific
 
 I discovered the top 5 countries for total transactions using the below query.
 
-<img src="images/NUmber of Transactions by country SQL.PNG?raw=true"/>
-
-<img src="images/NUmber of Transactions by country DATA.PNG?raw=true"/>
+<img src="images/NUmber of Transacations by country SQL.PNG?raw=true"/>
+<img src="images/NUmber of Transacations by country DATA.PNG?raw=true"/>
