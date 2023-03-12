@@ -16,7 +16,7 @@ For this project, I created a **[dashboard using Tableau](https://public.tableau
 
 ---
 
-#### [Analysis of World Bank using PostgreSQL](/Analysis_of_World_Bank_using_PostgreSQL)
+#### [Analysis of World Bank using PostgreSQL](/wordlbank)
 <img src="images/world-bank-logo.jpg?raw=true"/>
 
 ---
