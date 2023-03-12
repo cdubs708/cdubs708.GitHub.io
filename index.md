@@ -18,7 +18,7 @@ For this project, I created a **[dashboard using Tableau](https://public.tableau
 
 #### [Analysis of World Bank using PostgreSQL](/sample_project)
 <img src="images/world-bank-logo.jpg?raw=true"/>
-For this project, I used PostgreSQL to analyze the total transactions, amount due, and the single country who has both the most transactions and amount due to the World Bank.
+For this project, I used **PostgreSQL** to analyze the total transactions, amount due, and the single country who has both the most transactions and amount due to the World Bank.
 
 ---
 
