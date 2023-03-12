@@ -29,6 +29,7 @@ When analyzing the data, I wanted to start big picture and then focus in on the 
 ### The Analysis
 
 To find that there are 137 distinct countries that have borrowed from the World Bank, I used the query below counting the number of distinct countries.
+
 <img src="images/number_of_countries.png?raw=true"/>
 
 
