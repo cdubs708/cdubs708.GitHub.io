@@ -1,5 +1,7 @@
 ## Analysis of World Bank using PostgreSQL
 
+<img src="images/world-bank-logo?raw=true"/>
+
 **Project description:** In this project, I pretended I was hired by the World Bank as a Data Analyst. I was tasked with using PostgreSQL to filter through the International Development Association's (IDA) historical data - their statement of grants and credits.
 
 Be sure to connect with me on LinkedIn or check out my other projects using the two links at the bottom left. 
