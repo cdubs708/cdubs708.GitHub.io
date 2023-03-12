@@ -32,4 +32,21 @@ To find that there are 137 distinct countries that have borrowed from the World 
 
 <img src="images/number of countires.PNG?raw=true"/>
 
+Next, I wanted to find the total number of transactions the World Bank made with all 137 of those countries. I ran a count all query.
 
+<img src="images/total transactions.PNG?raw=true"/>
+
+This returned **2,280,240 total transactions**!
+
+Then, I wanted to see the total amount still owed to the IDA out of those 2.28 Million transactions. I used the query below summing all individual Due to IDA balances.
+
+<img src="images/total due to ida.PNG?raw=true"/>
+
+This returned exactly **$41,426,949,353,204.69! Over $41 Trillion USD is owed to the IDA!**
+
+Now, I wanted to dig into the large number owed to the IDA. I wanted to specifically find the single country that owes the most and its largest projects. To do that, I first wanted to find the top 5 countries for both number of transactions and amount due to IDA.
+
+I discovered the top 5 countries for total transactions using the below query.
+
+<img src="images/NUmber of Transactions by country SQL.PNG?raw=true"/>
+<img src="images/NUmber of Transactions by country DATA.PNG?raw=true"/>
