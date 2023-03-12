@@ -62,8 +62,8 @@ It can be seen that again **India is at the top with $6,808,932,727,490.81 due t
 
 I then wanted to analyze India more because it ranked number 1 in both transactions and amount due to IDA. I decided I wanted to see what India's 5 most expensive projects were, and how much they have paid back so far on those projects.
 
-<img src="images/India Most Exensive 5 Projects SQL.PNG?raw=true"/>
-<img src="images/India Most Exensive 5 Projects DATA.PNG?raw=true"/>
+<img src="images/India Most Expensive 5 Projects SQL.PNG?raw=true"/>
+<img src="images/India Most Expensive 5 Projects DATA.PNG?raw=true"/>
 
 I found that all 5 of India's biggest projects were for the National Rural Livelihoods Project. All 5 projects had an initial principal amount of $1,000,000,000. India has also only partially paid back 3 out of those 5 projects.
 
