@@ -50,3 +50,33 @@ I discovered the top 5 countries for total transactions using the below query.
 
 <img src="images/NUmber of Transacations by country SQL.PNG?raw=true"/>
 <img src="images/NUmber of Transacations by country DATA.PNG?raw=true"/>
+
+It can be seen here that the **country with the most transactions is India with 119,318 transactions**. India is then followed by Bangladesh, Pakistan, Tanzania, and Ghana.
+
+I then found the top 5 countries in amount "Due to IDA" using this query.
+
+<img src="images/amount due to IDA per country SQL.PNG?raw=true"/>
+<img src="images/amount due to IDA per country DATA.PNG?raw=true"/>
+
+It can be seen that again **India is at the top with $6,808,932,727,490.81 due to the IDA**, followed by Bangladesh and Pakistan. This makes sense because these are also the top 3 countries in total amount of transactions. The fourth and fifth countries with the most Due to IDA were Vietnam and Nigeria.
+
+I then wanted to analyze India more because it ranked number 1 in both transactions and amount due to IDA. I decided I wanted to see what India's 5 most expensive projects were, and how much they have paid back so far on those projects.
+
+<img src="images/India Most Exensive 5 Projects SQL.PNG?raw=true"/>
+<img src="images/India Most Exensive 5 Projects DATA.PNG?raw=true"/>
+
+I found that all 5 of India's biggest projects were for the National Rural Livelihoods Project. All 5 projects had an initial principal amount of $1,000,000,000. India has also only partially paid back 3 out of those 5 projects.
+
+### Findings
+
+Over the course of **12 years**, **137 countries** have totaled **2.28 Million transactions** and **owe over $41 Trillion dollars to the IDA**!
+India, Bangladesh, and Pakistan rank exactly 1,2,3 in both total number of transactions and amount due to the IDA.
+From **119,318 transactions, India owes $6,808,932,727,490.81 to the IDA.**
+India's 5 largest projects all original borrowed **$1 Billion dollars each** - but India has only repaid **$90,820,178** on those 5 projects - roughly **1.8%**.
+
+### Interested In More?
+
+This was for educational and practice purposes only. I do not own any of the data used here.
+Thank you for reading my World Bank Analysis project using PostgreSQL!
+I would love any feedback.
+Let's connect on LinkedIn - and take a look at my other projects - both are linked to the left side of this page!
