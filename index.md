@@ -16,6 +16,11 @@ For this project, I created a **[dashboard using Tableau](https://public.tableau
 
 ---
 
+#### [Analysis of World Bank using PostgreSQL](/Analysis_of_World_Bank_using_PostgreSQL)
+<img src="images/world-bank-logo.jpg?raw=true"/>
+
+---
+
 ### My Projects - Quick Links
 
 - [DoorDash Marketing Analysis - Excel](https://www.linkedin.com/pulse/doordashs-marketing-results-breakdown-christopher-wetzel/)
