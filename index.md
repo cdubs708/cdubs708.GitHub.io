@@ -23,7 +23,7 @@ For this project, I used **PostgreSQL** to analyze the total transactions, amoun
 ---
 
 #### [Healthcare Analysis using MySQL](https://www.linkedin.com/pulse/healthcare-analysis-using-mysql-christopher-wetzel/?trackingId=7QkR6lPyR8ehRa16l5jCkg%3D%3D)
-<imgsrc="hospital-photo.PNG"/>
+<img src="hospital-photo.PNG"/>
 For this project, I used **MySQL** to to write queries and analyze the hospital's pateint data to provide valuable insights to the hospital.
 
 ---
